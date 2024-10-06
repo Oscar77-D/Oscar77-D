@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hola a todos 👋
+:zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz::zzz:
+Hola mi nombre es Oscar, me gusta la programacion estoy empezando a adentrarme en el mundo de la programacióin, espero con ansas los nuevos retos que tengo enfrente.
+:muscle:
 <!--
 **Oscar77-D/Oscar77-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
